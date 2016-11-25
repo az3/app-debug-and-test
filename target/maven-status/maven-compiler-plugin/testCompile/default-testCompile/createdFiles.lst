@@ -1,0 +1,10 @@
+debugandtest/ProfileWorkload.class
+debugandtest/ProcA.class
+debugandtest/PayloadWorkload.class
+com/cagricelebi/voltdb/sample/BasicTest.class
+debugandtest/Unpack.class
+debugandtest/BuggyProc.class
+debugandtest/UnitTestVoltDB.class
+debugandtest/ProcB.class
+debugandtest/BuggyWorkload.class
+com/cagricelebi/voltdb/sample/AppTest.class
