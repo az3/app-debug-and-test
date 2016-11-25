@@ -1,9 +1,0 @@
-org/voltdb/utils/SQLCommandHack$LineReaderAdapter.class
-org/voltdb/utils/SQLCommandHack.class
-org/voltdb/InProcessVoltDBServer.class
-com/cagricelebi/voltdb/sample/procedure/EventOne.class
-com/cagricelebi/voltdb/sample/procedure/BaseEventProcedure.class
-org/voltdb/utils/SQLCommandHack$1.class
-com/cagricelebi/voltdb/sample/App.class
-org/voltdb/utils/SQLCommandHack$Tables.class
-org/voltdb/utils/SQLCommandHack$2.class
