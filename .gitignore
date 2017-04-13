@@ -17,3 +17,7 @@ hs_err_pid*
 /.classpath
 /.project
 target/
+
+# ide files.
+nbactions.xml
+
